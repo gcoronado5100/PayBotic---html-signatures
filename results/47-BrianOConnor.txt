@@ -4,7 +4,7 @@
             <table>
                 <tr>
                     <td>
-                        <img src="./assets/img/47 Bria O'Connor-01 1.png" alt="">
+                        <img src="https://gcoronado5100.github.io/PayBotic---html-signatures/assets/img/47%20Bria%20O'Connor-01%201.png" alt="">
                     </td>
                     <td
                         style="background: #273179; color:#fff; font-size: 10pt; height: 100%; padding: 8px 10px; border-radius: 16px;">
